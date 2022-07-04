@@ -1,0 +1,26 @@
+{
+  "name": "test-array-map-npm",
+  "version": "1.0.0",
+  "description": "测试开发并上传一个npm包",
+  "main": "./dist/test-array-map-npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunPm/test-array-map-npm.git"
+  },
+  "keywords": [
+    "typescript",
+    "sunpm"
+  ],
+  "author": "sunpm<15022325@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunPm/test-array-map-npm/issues"
+  },
+  "homepage": "https://github.com/SunPm/test-array-map-npm#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
